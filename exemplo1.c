@@ -4,6 +4,7 @@ int main()
    int num;
    FILE *fptr;
    fptr = fopen("exemplo1.txt","w");
+   // oi, mudei aqui!!
 
    if(fptr == NULL)
    {
